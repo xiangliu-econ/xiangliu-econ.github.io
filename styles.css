@@ -1,5 +1,7 @@
+/* General site style */
+
 body {
-  font-size: 1.05rem;
+  font-size: 1.03rem;
 }
 
 .navbar-brand,
@@ -7,28 +9,107 @@ body {
   font-size: 1.02rem;
 }
 
-.home-intro {
+p,
+li {
+  line-height: 1.65;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+h2 {
+  margin-top: 1.7rem;
+  margin-bottom: 0.6rem;
+}
+
+/* Hide Quarto's automatic page title block.
+   We will write one clean title manually on each page. */
+
+.quarto-title-block {
+  display: none;
+}
+
+/* Keep the content width clean and academic */
+
+main.content {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 2.2rem;
+}
+
+/* Homepage layout */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  column-gap: 3.2rem;
+  align-items: start;
   margin-top: 1.2rem;
+}
+
+.home-sidebar {
+  text-align: center;
 }
 
 .profile-photo {
   width: 100%;
-  max-width: 280px;
-  border-radius: 8px;
+  max-width: 300px;
+  border-radius: 6px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-h1 {
-  margin-bottom: 0.4rem;
+.profile-links {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.8;
 }
 
-h2 {
-  margin-top: 1.6rem;
-  margin-bottom: 0.5rem;
+.profile-links a {
+  white-space: nowrap;
+  text-decoration: none;
 }
 
-p, li {
-  line-height: 1.7;
+.profile-links span {
+  margin-left: 0.35rem;
+  margin-right: 0.35rem;
+  color: #777;
+}
+
+.home-main h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.25rem;
+}
+
+.subtitle {
+  font-size: 1.08rem;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+/* Mobile layout */
+
+@media (max-width: 800px) {
+  main.content {
+    padding-top: 1.4rem;
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+    row-gap: 1.8rem;
+  }
+
+  .home-sidebar {
+    max-width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .home-main h1 {
+    font-size: 2rem;
+  }
 }

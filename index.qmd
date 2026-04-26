@@ -2,12 +2,29 @@
 title: "Home"
 ---
 
-::: {.columns .home-intro}
-::: {.column width="68%"}
+::: {.home-grid}
+
+::: {.home-sidebar}
+
+<img src="images/profile_image.jpg" alt="Xiang Liu" class="profile-photo">
+
+<div class="profile-links">
+<a href="https://github.com/xiangliu-econ" target="_blank" rel="noopener noreferrer">GitHub</a>
+<span>|</span>
+<a href="https://scholar.google.com/citations?user=u6LkRYcAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+<span>|</span>
+<a href="https://www.linkedin.com/in/xiang-liu-econ/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<span>|</span>
+<a href="https://x.com/xiang_liu_econ" target="_blank" rel="noopener noreferrer">X</a>
+</div>
+
+:::
+
+::: {.home-main}
 
 # Xiang Liu
 
-PhD Candidate in Economics, University of Minnesota
+<p class="subtitle">PhD Candidate in Economics, University of Minnesota</p>
 
 Welcome!
 
@@ -24,18 +41,6 @@ I'm a PhD candidate in Economics at the University of Minnesota, where I also ea
 
 Email: [liu01246@umn.edu](mailto:liu01246@umn.edu)
 
-## Links
-
-- [GitHub](https://github.com/xiangliu-econ)
-- [Google Scholar](https://scholar.google.com/citations?user=u6LkRYcAAAAJ&hl=en&oi=ao)
-- [LinkedIn](https://www.linkedin.com/in/xiang-liu-econ/)
-- [X](https://x.com/xiang_liu_econ)
-
 :::
 
-::: {.column width="32%"}
-
-![Xiang Liu headshot](images/profile_image.jpg){.profile-photo fig-alt="Xiang Liu headshot"}
-
-:::
 :::
