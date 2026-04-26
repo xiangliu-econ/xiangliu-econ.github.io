@@ -2,8 +2,40 @@
 title: "Home"
 ---
 
+::: {.columns .home-intro}
+::: {.column width="68%"}
+
 # Xiang Liu
 
 PhD Candidate in Economics, University of Minnesota
 
-Welcome to my personal website.
+Welcome!
+
+I'm a PhD candidate in Economics at the University of Minnesota, where I also earned a Bachelor of Science degree in Mathematics and Economics. My research interests lie at the intersection of industrial organization, international trade, and growth and development. My current work focuses on the shipping industry, the transportation sector, and global supply chain networks, with particular attention to how they shape trade costs, trade policy, industrialization, and economic development in peripheral economies, using both theoretical and empirical approaches.
+
+## Research Fields
+
+- Industrial Organization
+- International Trade
+- Growth and Development
+- Transportation, Shipping, and Supply Chains
+
+## Contact
+
+Email: [liu01246@umn.edu](mailto:liu01246@umn.edu)
+
+## Links
+
+- [GitHub](https://github.com/xiangliu-econ)
+- [Google Scholar](https://scholar.google.com/citations?user=u6LkRYcAAAAJ&hl=en&oi=ao)
+- [LinkedIn](https://www.linkedin.com/in/xiang-liu-econ/)
+- [X](https://x.com/xiang_liu_econ)
+
+:::
+
+::: {.column width="32%"}
+
+![Xiang Liu headshot](images/profile_image.jpg){.profile-photo fig-alt="Xiang Liu headshot"}
+
+:::
+:::

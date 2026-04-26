@@ -4,18 +4,22 @@ project:
 
 website:
   title: "Xiang Liu"
+  site-url: "https://xiangliu-econ.github.io"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: cv.qmd
+        text: CV
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: cv.qmd
-        text: CV
+      - href: personal.qmd
+        text: Personal
 
 format:
   html:
     theme: cosmo
     toc: false
+    css: styles.css

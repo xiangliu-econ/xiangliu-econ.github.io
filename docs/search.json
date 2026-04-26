@@ -7,11 +7,32 @@
     "text": "CV\nMy CV will appear here."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Research\nPublications, working papers, and research projects will appear here."
+    "text": "PhD Candidate in Economics, University of Minnesota\nWelcome!\nI’m a PhD candidate in Economics at the University of Minnesota, where I also earned a Bachelor of Science degree in Mathematics and Economics. My research interests lie at the intersection of industrial organization, international trade, and growth and development. My current work focuses on the shipping industry, the transportation sector, and global supply chain networks, with particular attention to how they shape trade costs, trade policy, industrialization, and economic development in peripheral economies, using both theoretical and empirical approaches.\n\n\n\nIndustrial Organization\nInternational Trade\nGrowth and Development\nTransportation, Shipping, and Supply Chains\n\n\n\n\nEmail: liu01246@umn.edu\n\n\n\n\nGitHub\nGoogle Scholar\nLinkedIn\nX\n\n\n\n\n\n\n\nXiang Liu headshot"
+  },
+  {
+    "objectID": "index.html#research-fields",
+    "href": "index.html#research-fields",
+    "title": "Home",
+    "section": "",
+    "text": "Industrial Organization\nInternational Trade\nGrowth and Development\nTransportation, Shipping, and Supply Chains"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Home",
+    "section": "",
+    "text": "Email: liu01246@umn.edu"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Home",
+    "section": "",
+    "text": "GitHub\nGoogle Scholar\nLinkedIn\nX"
   },
   {
     "objectID": "teaching.html",
@@ -21,10 +42,17 @@
     "text": "Teaching\nCourses, syllabi, and teaching materials will appear here."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Xiang Liu\nPhD Candidate in Economics, University of Minnesota\nWelcome to my personal website."
+    "text": "Research\nPublications, working papers, and research projects will appear here."
+  },
+  {
+    "objectID": "personal.html",
+    "href": "personal.html",
+    "title": "Personal",
+    "section": "",
+    "text": "Personal\nThis page will include personal interests, non-academic activities, or other information I would like to share."
   }
 ]
