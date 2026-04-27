@@ -4,7 +4,7 @@
    ============================================================ */
 
 :root {
-  --site-max-width: 1160px;
+  --site-max-width: 1000px;
   --home-left-column: 360px;
   --home-column-gap: 3.5rem;
   --profile-photo-width: 360px;
