@@ -10,8 +10,15 @@ title: "Research"
 
 <details class="research-entry">
 <summary>
-<a class="research-title" href="files/papers/working_papers/example-working-paper-1.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">This Is a Working Paper Example 1</a>
+<span class="research-title">This Is a Working Paper Example 1</span>
 <span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Coauthor Name</a>; March 2026</span>
+<span class="research-links">Links. 
+<a href="files/papers/working_papers/example-working-paper-1.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Draft</a>
+<span class="link-separator">|</span>
+<a href="files/papers/working_papers/example-working-paper-1-slides.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Slides</a>
+<span class="link-separator">|</span>
+<a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Video</a>
+</span>
 </summary>
 
 <div class="research-details">
@@ -22,19 +29,20 @@ title: "Research"
 
 <p><strong>Media coverage.</strong> Add media coverage here if applicable.</p>
 
-<p><strong>Links.</strong>
-<a href="files/papers/working_papers/example-working-paper-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-<span class="link-separator">|</span>
-<a href="files/papers/working_papers/example-working-paper-1-slides.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
-</p>
-
 </div>
 </details>
 
 <details class="research-entry">
 <summary>
-<a class="research-title" href="files/papers/working_papers/example-working-paper-2.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">This Is a Working Paper Example 2</a>
+<span class="research-title">This Is a Working Paper Example 2</span>
 <span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Another Coauthor</a>; Draft in progress</span>
+<span class="research-links">Links. 
+<a href="files/papers/working_papers/example-working-paper-2.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Draft</a>
+<span class="link-separator">|</span>
+<a href="files/papers/working_papers/example-working-paper-2-slides.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Slides</a>
+<span class="link-separator">|</span>
+<a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Video</a>
+</span>
 </summary>
 
 <div class="research-details">
@@ -43,9 +51,7 @@ title: "Research"
 
 <p><strong>Presentations.</strong> Add conference and seminar presentations here if applicable.</p>
 
-<p><strong>Links.</strong>
-<a href="files/papers/working_papers/example-working-paper-2.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-</p>
+<p><strong>Media coverage.</strong> Add media coverage here if applicable.</p>
 
 </div>
 </details>
@@ -54,21 +60,26 @@ title: "Research"
 
 <details class="research-entry">
 <summary>
-<a class="research-title" href="files/papers/publications/example-publication-1.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">This Is a Publication Example</a>
+<span class="research-title">This Is a Publication Example</span>
 <span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Coauthor Name</a>; Journal Name, 2026</span>
+<span class="research-links">Links. 
+<a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Journal page</a>
+<span class="link-separator">|</span>
+<a href="files/papers/publications/example-publication-1.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Manuscript</a>
+<span class="link-separator">|</span>
+<a href="files/papers/publications/example-publication-1-slides.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Slides</a>
+<span class="link-separator">|</span>
+<a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Replication files</a>
+</span>
 </summary>
 
 <div class="research-details">
 
 <p><strong>Abstract.</strong> This is the abstract of the publication example. For published papers, you can include the abstract, journal information, replication files, media coverage, or related links.</p>
 
-<p><strong>Links.</strong>
-<a href="files/papers/publications/example-publication-1.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-<span class="link-separator">|</span>
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Journal page</a>
-<span class="link-separator">|</span>
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Replication files</a>
-</p>
+<p><strong>Presentations.</strong> Add conference and seminar presentations here if applicable.</p>
+
+<p><strong>Media coverage.</strong> Add media coverage here if applicable.</p>
 
 </div>
 </details>
@@ -76,18 +87,18 @@ title: "Research"
 ## Selected Work in Progress
 
 <div class="research-entry research-simple-entry">
-<p><strong>This Is a Work-in-Progress Example 1</strong><br>
-<span class="research-meta">with Coauthor Name</span></p>
+<span class="research-title">This Is a Work-in-Progress Example 1</span>
+<span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer">Coauthor Name</a></span>
 </div>
 
 <div class="research-entry research-simple-entry">
-<p><strong>This Is a Work-in-Progress Example 2</strong><br>
-<span class="research-meta">solo-authored project</span></p>
+<span class="research-title">This Is a Work-in-Progress Example 2</span>
+<span class="research-meta">solo-authored project</span>
 </div>
 
 <div class="research-entry research-simple-entry">
-<p><strong>This Is a Work-in-Progress Example 3</strong><br>
-<span class="research-meta">with Coauthor Name and Another Coauthor</span></p>
+<span class="research-title">This Is a Work-in-Progress Example 3</span>
+<span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer">Coauthor Name</a> and <a href="https://example.com" target="_blank" rel="noopener noreferrer">Another Coauthor</a></span>
 </div>
 
 :::
