@@ -24,13 +24,13 @@ title: "Home"
 
 # Xiang Liu
 
-<p class="subtitle">(Phonetic pronunciation: <em>shee-AHNG lee-OH</em>)</p>
+<p class="subtitle"> 刘祥 ( Phonetic pronunciation: <em>shee-AHNG lee-OH</em> )</p>
 
 Welcome!
 
-I'm a PhD candidate in Economics at the University of Minnesota. 
+I'm a PhD candidate in Economics at the University of Minnesota.  I will be on the job market in 2027-28. 
 
-My research interests lie at the intersection of industrial organization, international trade, and growth and development. My current work focuses on how transportation markets and global shipping networks shape trade costs, market access, and industrialization and development in emerging economies, using both empirical and theoretical tools. 
+My research interests lie at the intersection of IO, international trade, and growth and development. My current work focuses on how transportation markets and global shipping networks shape trade costs, market access, and industrialization and development in emerging economies, using both empirical and theoretical tools. 
 
 #### Committee: 
 
