@@ -2,6 +2,10 @@
 title: "Personal"
 ---
 
+::: {.standard-page}
+
 # Personal
 
 This page will include personal interests, non-academic activities, or other information I would like to share.
+
+:::

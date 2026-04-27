@@ -2,6 +2,10 @@
 title: "Teaching"
 ---
 
+::: {.standard-page}
+
 # Teaching
 
 Courses, syllabi, and teaching materials will appear here.
+
+:::

@@ -24,7 +24,7 @@ title: "Home"
 
 # Xiang Liu
 
-<p class="subtitle">(Phonetic pronunciation: *shee-AHNG lee-OH*)</p>
+<p class="subtitle">(Phonetic pronunciation: *shee-AHNG* *lee-OH* )</p>
 
 Welcome!
 

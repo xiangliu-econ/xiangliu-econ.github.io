@@ -2,6 +2,19 @@
 title: "CV"
 ---
 
+::: {.standard-page}
+
 # CV
 
-My CV will appear here.
+<div class="cv-actions">
+<a href="files/CV_Xiang_Liu_04272026.pdf" target="_blank" rel="noopener noreferrer">Download my CV here.</a>
+</div>
+
+<object class="cv-pdf" data="files/CV_Xiang_Liu_04272026.pdf" type="application/pdf">
+  <p>
+    Your browser cannot display the PDF directly.
+    <a href="files/CV_Xiang_Liu_04272026.pdf" target="_blank" rel="noopener noreferrer">Download my CV here.</a>
+  </p>
+</object>
+
+:::

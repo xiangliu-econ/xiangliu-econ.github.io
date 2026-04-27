@@ -1,4 +1,18 @@
-/* General site style */
+/* ============================================================
+   Site-wide layout controls
+   Adjust these three values if you want to tune the layout.
+   ============================================================ */
+
+:root {
+  --site-max-width: 1160px;
+  --home-left-column: 360px;
+  --home-column-gap: 3.5rem;
+  --profile-photo-width: 360px;
+}
+
+/* ============================================================
+   General site style
+   ============================================================ */
 
 body {
   font-size: 1.03rem;
@@ -25,29 +39,32 @@ h2 {
 }
 
 /* Hide Quarto's automatic page title block.
-   We will write one clean title manually on each page. */
+   We manually write one clean title on each page. */
 
 .quarto-title-block {
   display: none;
 }
 
-/* Keep the content width clean and academic */
+/* This gives every page the same effective content width and left edge. */
 
 main.content {
-  max-width: 980px;
+  width: min(var(--site-max-width), calc(100% - 48px));
+  max-width: var(--site-max-width);
   margin-left: auto;
   margin-right: auto;
-  padding-top: 2.2rem;
+  padding-top: 2.8rem;
 }
 
-/* Homepage layout */
+/* ============================================================
+   Homepage layout
+   ============================================================ */
 
 .home-grid {
   display: grid;
-  grid-template-columns: 300px minmax(0, 1fr);
-  column-gap: 3.2rem;
+  grid-template-columns: var(--home-left-column) minmax(0, 1fr);
+  column-gap: var(--home-column-gap);
   align-items: start;
-  margin-top: 1.2rem;
+  margin-top: 0.6rem;
 }
 
 .home-sidebar {
@@ -56,7 +73,7 @@ main.content {
 
 .profile-photo {
   width: 100%;
-  max-width: 300px;
+  max-width: var(--profile-photo-width);
   border-radius: 6px;
   display: block;
   margin-left: auto;
@@ -81,21 +98,57 @@ main.content {
 }
 
 .home-main h1 {
-  font-size: 2.2rem;
-  margin-bottom: 0.25rem;
+  font-size: 2.15rem;
+  margin-bottom: 0.3rem;
 }
 
 .subtitle {
-  font-size: 1.08rem;
+  font-size: 1.04rem;
   color: #555;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.3rem;
 }
 
-/* Mobile layout */
+/* ============================================================
+   Standard pages: CV, Research, Teaching, Personal
+   ============================================================ */
 
-@media (max-width: 800px) {
+.standard-page {
+  max-width: var(--site-max-width);
+}
+
+.standard-page h1 {
+  font-size: 2.05rem;
+  margin-bottom: 0.8rem;
+}
+
+/* ============================================================
+   CV PDF display
+   ============================================================ */
+
+.cv-actions {
+  margin-bottom: 1.2rem;
+}
+
+.cv-pdf {
+  width: 100%;
+  height: 900px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* ============================================================
+   Mobile layout
+   ============================================================ */
+
+@media (max-width: 850px) {
+  :root {
+    --home-left-column: 1fr;
+    --profile-photo-width: 320px;
+  }
+
   main.content {
-    padding-top: 1.4rem;
+    width: min(100% - 32px, var(--site-max-width));
+    padding-top: 1.6rem;
   }
 
   .home-grid {
@@ -104,7 +157,7 @@ main.content {
   }
 
   .home-sidebar {
-    max-width: 320px;
+    max-width: 340px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -112,4 +165,10 @@ main.content {
   .home-main h1 {
     font-size: 2rem;
   }
+
+  .cv-pdf {
+    height: 700px;
+  }
 }
+
+

@@ -2,6 +2,10 @@
 title: "Research"
 ---
 
+::: {.standard-page}
+
 # Research
 
 Publications, working papers, and research projects will appear here.
+
+:::
