@@ -24,7 +24,7 @@ title: "Home"
 
 # Xiang Liu
 
-<p class="subtitle"> 刘祥 ( Phonetic pronunciation: <em>shee-AHNG lee-OH</em> )</p>
+<p class="subtitle"> **刘祥** ( Phonetic pronunciation: <em>shee-AHNG lee-OH</em> )</p>
 
 Welcome!
 
