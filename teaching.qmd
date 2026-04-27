@@ -6,6 +6,52 @@ title: "Teaching"
 
 # Teaching
 
-Courses, syllabi, and teaching materials will appear here.
+## University of Minnesota
+
+<details class="teaching-entry">
+<summary>
+<span class="teaching-title">Instructor, ECON 4431W: International Trade</span>
+<span class="teaching-meta">Writing Intensive; Fall 2025 & Spring 2026</span>
+</summary>
+
+<div class="teaching-details">
+
+<p><strong>Role.</strong> Instructor.</p>
+
+<p><strong>Course.</strong> ECON 4431W: International Trade.</p>
+
+<p><strong>Terms.</strong> Fall 2025 and Spring 2026.</p>
+
+<p><strong>Enrollment.</strong> 112 students.</p>
+
+<p><strong>Recognition.</strong> Distinguished Instructor, Fall 2025.</p>
+
+<p><strong>Materials.</strong> Syllabus and selected teaching materials available upon request.</p>
+
+</div>
+</details>
+
+<details class="teaching-entry">
+<summary>
+<span class="teaching-title">Teaching Assistant, ECON 1101: Principles of Microeconomics</span>
+<span class="teaching-meta">Fall 2023 & Spring 2024</span>
+</summary>
+
+<div class="teaching-details">
+
+<p><strong>Role.</strong> Teaching Assistant.</p>
+
+<p><strong>Course.</strong> ECON 1101: Principles of Microeconomics.</p>
+
+<p><strong>Terms.</strong> Fall 2023 and Spring 2024.</p>
+
+<p><strong>Enrollment.</strong> 240 students.</p>
+
+<p><strong>Recognition.</strong> Distinguished TA, Fall 2023 and Spring 2024.</p>
+
+<p><strong>Materials.</strong> Discussion materials and teaching notes available upon request.</p>
+
+</div>
+</details>
 
 :::
