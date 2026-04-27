@@ -4,10 +4,10 @@
    ============================================================ */
 
 :root {
-  --site-max-width: 1000px;
+  --site-max-width: 950px;
   --home-left-column: 360px;
   --home-column-gap: 3.5rem;
-  --profile-photo-width: 360px;
+  --profile-photo-width: 340px;
 }
 
 /* ============================================================
