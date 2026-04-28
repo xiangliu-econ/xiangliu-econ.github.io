@@ -21,11 +21,14 @@ title: "Teaching"
 
 <p><strong>Role.</strong> Instructor.</p>
 
-<p><strong>Description.</strong> This course studies the causes and consequences of international trade, with emphasis on the economic mechanisms behind trade patterns, trade policy, distributional effects, and globalization. Students learn to use economic models and empirical evidence to evaluate trade-related questions.</p>
+<p><strong>Description.</strong> What is the essence of international trade? What are the main factors that determine trade patterns? Who benefits from trade and by how much? How do immigration, technological progress, and trade policies such as tariffs and quotas affect welfare? How will technological progress in the developing world affect the developed world? What are the effects of barriers to trade, such as tariffs and quotas? To answer those questions properly, we need economic tools in trade. 
+
+This course introduces both the theoretical and empirical analysis of international trade. We will investigate classic models such as the basic exchange economy, the Armington model, the Ricardian model, and more. On the other hand, we will connect these models to evidence, including using the gravity equation and regression analysis. 
+</p>
 
 <p><strong>Enrollment.</strong> 57 students in Fall 2025 and 54 students in Spring 2026.</p>
 
-<p><strong>Materials.</strong> <a href="files/teaching/minnesota/syllabi/econ4431w-syllabus.pdf" target="_blank" rel="noopener noreferrer">Syllabus is here</a>, and selected teaching materials are available upon request.</p>
+<p><strong>Materials.</strong> <a href="files/teaching/minnesota/2025-26/syllabi/econ4431w-syllabus.pdf" target="_blank" rel="noopener noreferrer">Syllabus is here</a>, <a href="files/teaching/minnesota/2025-26/slides/econ4431w-sample-slides.pdf" target="_blank" rel="noopener noreferrer">sample slides are here</a>, and other teaching materials are available upon request.</p>
 
 </div>
 </details>

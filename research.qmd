@@ -8,7 +8,7 @@ title: "Research"
 
 ## Working Papers
 
-<details class="research-entry">
+<!-- <details class="research-entry">
 <summary>
 <span class="research-title">This Is a Working Paper Example 1</span>
 <span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Coauthor Name</a>; March 2026</span>
@@ -30,8 +30,11 @@ title: "Research"
 <p><strong>Media coverage.</strong> Add media coverage here if applicable.</p>
 
 </div>
-</details>
+</details> -->
 
+
+
+<!-- 
 <details class="research-entry">
 <summary>
 <span class="research-title">This Is a Working Paper Example 2</span>
@@ -54,10 +57,52 @@ title: "Research"
 <p><strong>Media coverage.</strong> Add media coverage here if applicable.</p>
 
 </div>
+</details> -->
+
+<details class="research-entry">
+
+<summary>
+
+<span class="research-title">Have We Got News For You: Firm-Level Evidence on the Optimal Choice of Expected Capacity Utilization</span>
+<span class="research-meta">with <a href="https://sites.google.com/view/niklasamberg/Home?authuser=0" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Niklas Amberg</a>, <a href="https://www.richardfriberg.se/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Richard Friberg</a>, and <a href="https://faculty.chicagobooth.edu/chad-syverson" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Chad Syverson</a>. April 2026 </span> 
+<span class="research-links">Draft available by request.</span>
+</summary>
+
+<div class="research-details">
+
+<p><strong>Abstract.</strong> Using quarterly micro data on capacity utilization among Swedish manufacturing firms, we show that idiosyncratic factors are more important than aggregate influences in explaining variation in capacity utilization across firms and over time. Idiosyncratic does not mean unpredictable, however. A newsvendor model of optimal capacity predicts that higher demand uncertainty lowers expected capacity utilization, especially for high-markup firms. We find support for these predictions in data containing firm-specific, forward-looking measures of uncertainty: firms facing high uncertainty on average have seven percentage points lower capacity utilization than firms facing low uncertainty; among high-markup firms, the difference is over 10 percentage points.</p>
+
+</div>
+
 </details>
+
+<details class="research-entry">
+
+<summary>
+
+<span class="research-title">Time as an Endogenous Transportation Cost: Scale vs. Congestion in Global Container Shipping</span>
+<span class="research-meta">Jan 2026</span>
+<span class="research-links">Draft available by request.</span>
+</summary>
+
+<div class="research-details">
+
+<p><strong>Abstract.</strong> Shipping time in containerized trade is not fixed, it is an equilibrium outcome of routing and scheduling in hub-and-spoke liner networks, and a key component of transportation costs. We provide direct micro evidence and causal estimates of how realized container flows on an origin–destination port pair affect end-to-end shipping time, trading off a Mohring-type scale effect (denser schedules, more direct service) against congestion. Using container journey-level microdata that directly measure total shipping time and routing choices, we implement a panel 2SLS design with a shift–share instrument for port-pair trade volume. Scale economies dominate congestion on net. Treating shipping time as endogenous has broader implications: shocks and policies that shift trade volumes also reshape shipping time through routing and scheduling, and thus the time component of trade costs.</p>
+
+</div>
+
+</details>
+
+
+
+
+
+
+
 
 ## Publications
 
+<!-- 
 <details class="research-entry">
 <summary>
 <span class="research-title">This Is a Publication Example</span>
@@ -82,23 +127,34 @@ title: "Research"
 <p><strong>Media coverage.</strong> Add media coverage here if applicable.</p>
 
 </div>
-</details>
+</details> -->
+
+<div class="research-entry research-simple-entry">
+
+<span class="research-title">No publications listed yet.</span>
+
+</div>
 
 ## Selected Work in Progress
 
 <div class="research-entry research-simple-entry">
 <span class="research-title">This Is a Work-in-Progress Example 1</span>
-<span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer">Coauthor Name</a></span>
+<!-- <span class="research-meta">solo-authored project</span> -->
 </div>
 
 <div class="research-entry research-simple-entry">
 <span class="research-title">This Is a Work-in-Progress Example 2</span>
-<span class="research-meta">solo-authored project</span>
+<!-- <span class="research-meta">with <a href="https://users.econ.umn.edu/~luttmer/" target="_blank" rel="noopener noreferrer">Erzo Luttmer</a></span> -->
 </div>
 
 <div class="research-entry research-simple-entry">
 <span class="research-title">This Is a Work-in-Progress Example 3</span>
-<span class="research-meta">with <a href="https://example.com" target="_blank" rel="noopener noreferrer">Coauthor Name</a> and <a href="https://example.com" target="_blank" rel="noopener noreferrer">Another Coauthor</a></span>
+<!-- <span class="research-meta">with <a href="https://www.thomas-holmes.com/" target="_blank" rel="noopener noreferrer">Thomas Holmes</a> </span> -->
 </div>
+
+<!-- <div class="research-entry research-simple-entry">
+<span class="research-title">This Is a Work-in-Progress Example 3</span>
+<span class="research-meta">with <a href="https://www.thomas-holmes.com/" target="_blank" rel="noopener noreferrer">Thomas Holmes</a> and <a href="https://example.com" target="_blank" rel="noopener noreferrer">Another Coauthor</a></span>
+</div> -->
 
 :::
