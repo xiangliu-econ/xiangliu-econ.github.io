@@ -35,6 +35,7 @@ project:
 website:
   title: "Xiang Liu"
   site-url: "https://xiangliu-econ.com"
+  favicon: images/favicon_XL.jpg
   search: false
   page-footer:
     center: "© 2026 Xiang Liu. All rights reserved."
