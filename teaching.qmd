@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Teaching by Xiang Liu, PhD candidate in Economics at the University of Minnesota."
 ---
 
 ::: {.standard-page}

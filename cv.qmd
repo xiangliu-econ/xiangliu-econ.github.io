@@ -1,5 +1,6 @@
 ---
 title: "CV"
+description: "Curriculum vitae of Xiang Liu, PhD candidate in Economics at the University of Minnesota."
 ---
 
 ::: {.standard-page}

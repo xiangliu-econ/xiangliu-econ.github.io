@@ -1,5 +1,6 @@
 ---
-title: "Home"
+title: "Xiang Liu | Economics PhD Candidate | University of Minnesota"
+description: "Xiang Liu is a PhD candidate in Economics at the University of Minnesota. His research is in industrial organization, international trade, growth and development, transportation markets, and global shipping networks."
 ---
 
 ::: {.home-grid}
