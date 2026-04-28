@@ -36,6 +36,8 @@ website:
   title: "Xiang Liu"
   site-url: "https://xiangliu-econ.com"
   search: false
+  page-footer:
+    center: "© 2026 Xiang Liu. All rights reserved."
   navbar:
     left:
       - href: index.qmd
