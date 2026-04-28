@@ -28,12 +28,13 @@ project:
   type: website
   output-dir: docs
   resources:
+    - CNAME
     - files/**
     - images/**
 
 website:
   title: "Xiang Liu"
-  site-url: "https://xiangliu-econ.github.io"
+  site-url: "https://xiangliu-econ.com"
   search: false
   navbar:
     left:
