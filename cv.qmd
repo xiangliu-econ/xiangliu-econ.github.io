@@ -8,13 +8,13 @@ description: "Curriculum vitae of Xiang Liu, PhD candidate in Economics at the U
 # Curriculum Vitae
 
 <div class="cv-actions">
-<a href="files/CV_Xiang_Liu_04272026.pdf" target="_blank" rel="noopener noreferrer">Download my CV here</a> (04/2026).
+<a href="files/CV_Xiang_Liu_05092026.pdf" target="_blank" rel="noopener noreferrer">Download my CV here</a> (05/2026).
 </div>
 
-<object class="cv-pdf" data="files/CV_Xiang_Liu_04272026.pdf" type="application/pdf">
+<object class="cv-pdf" data="files/CV_Xiang_Liu_05092026.pdf" type="application/pdf">
   <p>
     Your browser cannot display the PDF directly.
-    <a href="files/CV_Xiang_Liu_04272026.pdf" target="_blank" rel="noopener noreferrer">Download my CV here.</a>
+    <a href="files/CV_Xiang_Liu_05092026.pdf" target="_blank" rel="noopener noreferrer">Download my CV here.</a>
   </p>
 </object>
 
