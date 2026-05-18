@@ -138,19 +138,19 @@ description: "Research by Xiang Liu."
 
 ## Selected Work in Progress
 
-<div class="research-entry research-simple-entry">
+<!-- <div class="research-entry research-simple-entry">
 <span class="research-title">This Is a Work-in-Progress Example 1</span>
-<!-- <span class="research-meta">solo-authored project</span> -->
+<span class="research-meta">solo-authored project</span>
+</div>  -->
+
+<div class="research-entry research-simple-entry">
+<span class="research-title">A Ricardian Model with Capacity Constraints on Transportation: Disruptions and Fluctuations in the Costs of Container Shipping During COVID-19</span>
+<span class="research-meta">with <a href="https://users.econ.umn.edu/~luttmer/" target="_blank" rel="noopener noreferrer">Erzo Luttmer</a></span> 
 </div>
 
 <div class="research-entry research-simple-entry">
-<span class="research-title">This Is a Work-in-Progress Example 2</span>
-<!-- <span class="research-meta">with <a href="https://users.econ.umn.edu/~luttmer/" target="_blank" rel="noopener noreferrer">Erzo Luttmer</a></span> -->
-</div>
-
-<div class="research-entry research-simple-entry">
-<span class="research-title">This Is a Work-in-Progress Example 3</span>
-<!-- <span class="research-meta">with <a href="https://www.thomas-holmes.com/" target="_blank" rel="noopener noreferrer">Thomas Holmes</a> </span> -->
+<span class="research-title">Supply Chain Resilience and Container Shipping Industry Concentration</span>
+<span class="research-meta">with <a href="https://www.thomas-holmes.com/" target="_blank" rel="noopener noreferrer">Thomas Holmes</a> </span>
 </div>
 
 <!-- <div class="research-entry research-simple-entry">
