@@ -71,7 +71,7 @@ description: "Research by Xiang Liu."
 
 <div class="research-details">
 
-<p><strong>Abstract.</strong> Using quarterly micro data on capacity utilization among Swedish manufacturing firms, we show that idiosyncratic factors are more important than aggregate influences in explaining variation in capacity utilization across firms and over time. Idiosyncratic does not mean unpredictable, however. A newsvendor model of optimal capacity predicts that higher demand uncertainty lowers expected capacity utilization, especially for high-markup firms. We find support for these predictions in data containing firm-specific, forward-looking measures of uncertainty: firms facing high uncertainty on average have seven percentage points lower capacity utilization than firms facing low uncertainty; among high-markup firms, the difference is over 10 percentage points.</p>
+<p><strong>Abstract.</strong> We use quarterly micro data on capacity utilization among Swedish manufacturing firms to show idiosyncratic factors are more important than aggregate influences in explaining variation in capacity utilization across firms and over time. Idiosyncratic does not mean unpredictable, however. A newsvendor model of optimal capacity predicts that higher demand uncertainty lowers expected capacity utilization, especially for high-markup firms. We find support for these predictions in data containing firm-specific, forward-looking measures of uncertainty: firms facing high uncertainty on average have seven percentage points lower capacity utilization than firms facing low uncertainty; among high-markup firms, the difference is nine percentage points.</p>
 
 </div>
 
