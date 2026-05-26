@@ -60,7 +60,7 @@ description: "Research by Xiang Liu."
 </div>
 </details> -->
 
-<details class="research-entry">
+<!-- <details class="research-entry">
 
 <summary>
 
@@ -75,7 +75,35 @@ description: "Research by Xiang Liu."
 
 </div>
 
+</details> -->
+
+
+<details class="research-entry">
+
+<summary>
+
+<span class="research-title">Have We Got News For You: Firm-Level Evidence on the Optimal Choice of Expected Capacity Utilization</span>
+<span class="research-meta">with <a href="https://sites.google.com/view/niklasamberg/Home?authuser=0" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Niklas Amberg</a>, <a href="https://www.richardfriberg.se/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Richard Friberg</a>, and <a href="https://faculty.chicagobooth.edu/chad-syverson" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Chad Syverson</a>. May 2026</span> 
+<span class="research-links">Links. 
+<a href="files/papers/working_papers/Capacity_utilization.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Draft</a>
+<span class="link-separator">|</span>
+<a href="https://www.riksbank.se/globalassets/media/rapporter/working-papers/2026/no.-466-have-we-got-news-for-you-theory-and-evidence-on-firms-optimal-expected-capacity-utilization.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Riksbank working paper</a>
+</span>
+
+</summary>
+
+<div class="research-details">
+
+<p><strong>Abstract.</strong> We use quarterly micro data on capacity utilization among Swedish manufacturing firms to show that idiosyncratic factors are more important than aggregate influences in explaining variation in capacity utilization across firms and over time. Idiosyncratic does not mean unpredictable, however. A newsvendor model of optimal capacity predicts that higher demand uncertainty lowers expected capacity utilization, especially for high-markup firms. We find support for these predictions in data containing firm-specific, forward-looking measures of uncertainty: firms facing high uncertainty on average have seven percentage points lower capacity utilization than firms facing low uncertainty; among high-markup firms, the difference is nine percentage points.</p>
+
+</div>
+
 </details>
+
+
+
+
+
 
 <details class="research-entry">
 
