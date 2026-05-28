@@ -82,7 +82,7 @@ description: "Research by Xiang Liu."
 
 <summary>
 
-<span class="research-title">Have We Got News For You: Firm-Level Evidence on the Optimal Choice of Expected Capacity Utilization</span>
+<span class="research-title">Have We Got News For You: Theory and Evidence on Firms’ Optimal Expected Capacity Utilization</span> 
 <span class="research-meta">with <a href="https://sites.google.com/view/niklasamberg/Home?authuser=0" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Niklas Amberg</a>, <a href="https://www.richardfriberg.se/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Richard Friberg</a>, and <a href="https://faculty.chicagobooth.edu/chad-syverson" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Chad Syverson</a>. May 2026</span> 
 <span class="research-links">Links. 
 <a href="files/papers/working_papers/Capacity_utilization.pdf" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation();">Draft</a>
