@@ -13,7 +13,7 @@ description: "Teaching by Xiang Liu, PhD candidate in Economics at the Universit
 <summary>
 <span class="teaching-title">Instructor, ECON 4431W: International Trade</span>
 <span class="teaching-meta">Undergraduate; Fall 2025 & Spring 2026</span>
-<span class="teaching-recognition">Recognition. Distinguished Instructor, Fall 2025.</span>
+<span class="teaching-recognition">Recognition. Distinguished Instructor, Fall 2025 & Spring 2026.</span>
 </summary>
 
 <div class="teaching-details">
